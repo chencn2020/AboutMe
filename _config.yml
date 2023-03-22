@@ -59,34 +59,34 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "陈泽文"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "一名热衷分享的程序员"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://zwchen.top"
+    - label: "Zhihu"
+      icon: "icon brands fa-zhihu"
+      url: "https://www.zhihu.com/people/yi-er-san-liu-8"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/chencn2020"
+    - label: "GoogleScholar"
+      icon: "boldInfo fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=ozllxV4AAAAJ"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Zhihu"
+      icon: "icon brands fa-zhihu"
+      url: "https://www.zhihu.com/people/yi-er-san-liu-8"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/chencn2020"
+    - label: "GoogleScholar"
+      icon: "boldInfo fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=ozllxV4AAAAJ"
 
 defaults:
   # _posts
