@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-[中文](/about_CN/) | **[English]**
+[中文](about_CN) | **[English]**
 
 # Basic Information
 # Self-Introduction
