@@ -3,7 +3,7 @@ permalink: /about_CN/
 title: "关于我"
 ---
 
-**【中文】** | [English](about)
+**【中文】** | [English](/AboutMe/about/)
 # 基本信息
 # 自我介绍
 
