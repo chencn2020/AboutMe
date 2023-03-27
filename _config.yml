@@ -34,9 +34,7 @@ words_per_minute         : 200
 
 email: chencn2018@163.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  欢迎来到“学浅工作室”, Zevin的个人博客. Welcome to the xueqian studio.
 # twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -82,8 +80,8 @@ plugins:
 
 author:
   name   : "陈泽文"
-  avatar : "/assets/images/me.jpg"
-  bio    : "一名热衷于分享的程序员"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "诗酒趁年华"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
